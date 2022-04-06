@@ -1,0 +1,89 @@
+h1 {
+  text-align:center;
+}
+
+.podcast{
+    display:block;
+    text-align:center;
+}
+
+.video {
+  border:0;
+  width: 500px;
+  height:280px;
+  display:block;
+  margin:auto;
+}
+
+h2 {
+  text-align:justify;
+  font-size:20px;
+}
+
+.imagen1 {
+  width:450px;
+  display:block;
+  margin:auto;
+} 
+
+.imagen2 {
+  width:320px;
+  display:block;
+  margin:auto;
+} 
+
+
+h5 {
+  font-size:30px;
+}
+
+.enunciado1 {
+  text-align:justify;
+  font-family:"Times New Roman";
+}
+
+.submenu2 {
+	list-style-type:square;
+	font-size:15px;
+	text-align: left;
+}
+
+.submenu1 {
+	list-style-type:square;
+	font-size:15px;
+	text-align: left;
+}
+
+.lista1{
+  list-style-type:upper-roman;
+	text-align: left;
+}
+
+.listadesordenada1 {
+  color:black;
+	font-family:Comics Sams;
+	font-size:15px;
+	list-style-type:square;
+	text-align: left; 
+} 
+  
+table {
+  border: 1px solid blue;
+  width:90%;
+  text-align:center;
+}
+
+th,td {
+  vertical-align: central;
+  border: 1px solid blue
+}
+
+.año {
+  width:30%;
+  background-color:#FBFF80;
+}
+
+.astrónomas {
+  background-color:#ACD4FF;
+  width:90%;
+}

@@ -1,0 +1,70 @@
+h1 {
+  text-align:center;
+}
+
+.imagen1 {
+  display:block;
+  margin:auto;
+}
+
+.genially {
+  width: 90%;
+  display:block;
+  margin:auto;
+}
+
+h2 {
+  text-align:justify;
+  font-size:20px;
+}
+
+h5 {
+  text-align:justify;
+  font-size:20px;
+}
+
+.enunciado1 {
+  text-align:justify;
+  font-family:"Times New Roman";
+}
+
+.enunciado2 {
+  text-align:justify
+}
+
+.enunciado3 {
+  text-align:justify
+}
+
+.podcast{
+    display:block;
+    text-align:center;
+}
+  
+.lista1{
+  list-style-type:lower-greek;
+	text-align: left;
+}
+
+table {
+  display:block;
+  margin:auto;
+  border: 3px solid #000;
+  width:90%;
+  text-align:center;
+}
+
+th,td {
+  vertical-align: central;
+  border: 1px solid #000
+}
+
+.año {
+  width:10%;
+  background-color:#FFD0D0;
+}
+
+.cronología {
+  background-color:#FFFEEE;
+  width:90%;
+}
